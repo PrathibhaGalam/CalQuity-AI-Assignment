@@ -1,1 +1,1 @@
-# CalQuity-AI-Assignment
+# CalQuity AI Assignment - Task 1 
